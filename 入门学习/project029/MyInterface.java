@@ -2,5 +2,7 @@ package learn.project029;
 
 public interface MyInterface {
 
-    void method();//抽象方法
+    MyInterface method1();//抽象方法1
+
+    MyInterface method2();//抽象方法2
 }
